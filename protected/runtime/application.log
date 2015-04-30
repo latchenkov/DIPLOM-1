@@ -1,0 +1,1737 @@
+2015/04/20 12:40:54 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/public_html/1/Yii/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/public_html/1/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/1/index.php?r=gii
+---
+2015/04/20 12:42:30 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/public_html/1/Yii/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/public_html/1/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/1/index.php?r=gii
+---
+2015/04/20 12:44:56 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/public_html/1/Yii/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/public_html/1/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/1/index.php?r=gii
+---
+2015/04/20 12:45:00 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/public_html/1/Yii/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/public_html/1/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/1/index.php?r=gii
+---
+2015/04/20 12:48:06 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/public_html/1/Yii/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/public_html/1/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/1/index.php?r=gii
+---
+2015/04/20 12:48:09 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/public_html/1/Yii/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/public_html/1/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/1/index.php?r=gii
+---
+2015/04/20 12:48:14 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/public_html/1/Yii/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/public_html/1/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/1/index.php?r=gii
+---
+2015/04/20 12:48:15 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/public_html/1/Yii/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/public_html/1/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/1/index.php?r=gii
+---
+2015/04/20 12:48:16 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/public_html/1/Yii/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/public_html/1/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/1/index.php?r=gii
+---
+2015/04/20 12:49:39 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/public_html/1/Yii/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/public_html/1/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/1/index.php?r=gii
+---
+2015/04/21 09:27:32 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: could not find driver' in /var/www/public_html/1/Yii/db/CDbConnection.php:399
+Stack trace:
+#0 /var/www/public_html/1/Yii/db/CDbConnection.php(347): CDbConnection->open()
+#1 /var/www/public_html/1/Yii/db/CDbConnection.php(325): CDbConnection->setActive(true)
+#2 /var/www/public_html/1/Yii/base/CModule.php(394): CDbConnection->init()
+#3 /var/www/public_html/1/Yii/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/public_html/1/Yii/gii/generators/model/ModelCode.php(60): CModule->__get('db')
+#5 /var/www/public_html/1/Yii/web/CFormModel.php(39): ModelCode->init()
+#6 /var/www/public_html/1/Yii/gii/CCodeGenerator.php(153): CFormModel->__construct()
+#7 /var/www/public_html/1/Yii/gii/CCodeGenerator.php(63): CCodeGenerator->prepare()
+#8 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): CCodeGenerator->actionIndex()
+#9 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('index')
+#13 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('gii/model/index')
+#14 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /var/www/public_html/1/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/1/index.php?r=gii/model/index
+HTTP_REFERER=http://xaver.loc/1/index.php?r=gii/default/index
+---
+2015/04/21 11:09:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "index".' in /var/www/public_html/1/Yii/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/public_html/1/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1/
+---
+2015/04/21 11:31:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "view".' in /var/www/public_html/1/Yii/web/CController.php:483
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(270): CController->missingAction('view')
+#1 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('view')
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('delete/view')
+#3 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/public_html/1/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/1/index.php/delete/1
+---
+2015/04/21 11:44:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "view".' in /var/www/public_html/1/Yii/web/CController.php:483
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(270): CController->missingAction('view')
+#1 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('view')
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('delete/view')
+#3 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/public_html/1/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/1/index.php/delete/3
+---
+2015/04/21 11:45:10 [error] [php] Undefined index: id (/var/www/public_html/1/protected/controllers/DeleteController.php:7)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): DeleteController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): DeleteController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): DeleteController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/delete/
+in /var/www/public_html/1/protected/controllers/DeleteController.php (7)
+in /var/www/public_html/1/index.php (13)
+2015/04/21 11:47:56 [error] [php] Undefined index: id (/var/www/public_html/1/protected/controllers/DeleteController.php:7)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): DeleteController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): DeleteController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): DeleteController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/delete/
+in /var/www/public_html/1/protected/controllers/DeleteController.php (7)
+in /var/www/public_html/1/index.php (13)
+2015/04/21 11:53:30 [error] [php] Undefined index: id (/var/www/public_html/1/protected/controllers/DeleteController.php:7)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): DeleteController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): DeleteController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): DeleteController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/delete/
+in /var/www/public_html/1/protected/controllers/DeleteController.php (7)
+in /var/www/public_html/1/index.php (13)
+2015/04/21 11:54:32 [error] [php] Undefined index: id (/var/www/public_html/1/protected/controllers/DeleteController.php:7)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): DeleteController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): DeleteController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): DeleteController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/delete/
+in /var/www/public_html/1/protected/controllers/DeleteController.php (7)
+in /var/www/public_html/1/index.php (13)
+2015/04/21 11:56:00 [error] [php] Undefined index: id (/var/www/public_html/1/protected/controllers/DeleteController.php:7)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): DeleteController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): DeleteController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): DeleteController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/delete/
+in /var/www/public_html/1/protected/controllers/DeleteController.php (7)
+in /var/www/public_html/1/index.php (13)
+2015/04/21 11:56:29 [error] [php] Undefined index: id (/var/www/public_html/1/protected/controllers/DeleteController.php:7)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): DeleteController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): DeleteController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): DeleteController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/delete/
+in /var/www/public_html/1/protected/controllers/DeleteController.php (7)
+in /var/www/public_html/1/index.php (13)
+2015/04/21 11:56:35 [error] [php] Undefined index: id (/var/www/public_html/1/protected/controllers/DeleteController.php:7)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): DeleteController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): DeleteController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): DeleteController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/delete/
+in /var/www/public_html/1/protected/controllers/DeleteController.php (7)
+in /var/www/public_html/1/index.php (13)
+2015/04/21 12:13:09 [error] [system.db.CDbCommand] Не удалось выполнить CDbCommand::execute(): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '6' for key 'PRIMARY'. Выполнявшийся SQL-запрос: INSERT INTO `ads` (`id`, `date`, `title`, `price`, `seller_name`, `type`, `email`, `allow_mails`, `phone`, `location_id`, `category_id`, `description`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10, :yp11).
+in /var/www/public_html/1/protected/controllers/SaveController.php (21)
+in /var/www/public_html/1/index.php (13)
+2015/04/21 12:13:09 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand не удалось исполнить SQL-запрос: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '6' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `ads` (`id`, `date`, `title`, `price`, `seller_name`, `type`, `email`, `allow_mails`, `phone`, `location_id`, `category_id`, `description`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10, :yp11)' in /var/www/public_html/1/Yii/db/CDbCommand.php:358
+Stack trace:
+#0 /var/www/public_html/1/Yii/db/ar/CActiveRecord.php(1080): CDbCommand->execute()
+#1 /var/www/public_html/1/Yii/db/ar/CActiveRecord.php(809): CActiveRecord->insert(NULL)
+#2 /var/www/public_html/1/protected/controllers/SaveController.php(21): CActiveRecord->save()
+#3 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): SaveController->actionIndex()
+#4 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#6 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('save')
+#9 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#10 /var/www/public_html/1/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/1/index.php/save
+---
+2015/04/22 09:55:01 [error] [exception.CException] exception 'CException' with message 'Псевдоним "application.extensions.Smarty.CSmartyViewRenderer" неверен. Убедитесь, что он указывает на существующий PHP файл.' in /var/www/public_html/1/Yii/YiiBase.php:323
+Stack trace:
+#0 /var/www/public_html/1/Yii/YiiBase.php(196): YiiBase::import('application.ext...', true)
+#1 /var/www/public_html/1/Yii/base/CModule.php(393): YiiBase::createComponent(Array)
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(221): CModule->getComponent('viewRenderer')
+#3 /var/www/public_html/1/Yii/web/CController.php(695): CWebApplication->getViewRenderer()
+#4 /var/www/public_html/1/Yii/web/CController.php(591): CController->resolveViewFile('index', '/var/www/public...', '/var/www/public...', '/var/www/public...')
+#5 /var/www/public_html/1/Yii/web/CController.php(867): CController->getViewFile('index')
+#6 /var/www/public_html/1/Yii/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#7 /var/www/public_html/1/protected/controllers/IndexController.php(11): CController->render('index')
+#8 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#9 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#13 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#14 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /var/www/public_html/1/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/1/
+---
+2015/04/22 09:56:12 [error] [exception.CException] exception 'CException' with message 'Псевдоним "application.extensions.Smarty.CSmartyViewRenderer" неверен. Убедитесь, что он указывает на существующий PHP файл.' in /var/www/public_html/1/Yii/YiiBase.php:323
+Stack trace:
+#0 /var/www/public_html/1/Yii/YiiBase.php(196): YiiBase::import('application.ext...', true)
+#1 /var/www/public_html/1/Yii/base/CModule.php(393): YiiBase::createComponent(Array)
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(221): CModule->getComponent('viewRenderer')
+#3 /var/www/public_html/1/Yii/web/CController.php(695): CWebApplication->getViewRenderer()
+#4 /var/www/public_html/1/Yii/web/CController.php(591): CController->resolveViewFile('index', '/var/www/public...', '/var/www/public...', '/var/www/public...')
+#5 /var/www/public_html/1/Yii/web/CController.php(867): CController->getViewFile('index')
+#6 /var/www/public_html/1/Yii/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#7 /var/www/public_html/1/protected/controllers/IndexController.php(11): CController->render('index')
+#8 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#9 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#13 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#14 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /var/www/public_html/1/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/1/
+---
+2015/04/22 09:56:19 [error] [exception.CException] exception 'CException' with message 'Псевдоним "application.extensions.Smarty.CSmartyViewRenderer" неверен. Убедитесь, что он указывает на существующий PHP файл.' in /var/www/public_html/1/Yii/YiiBase.php:323
+Stack trace:
+#0 /var/www/public_html/1/Yii/YiiBase.php(196): YiiBase::import('application.ext...', true)
+#1 /var/www/public_html/1/Yii/base/CModule.php(393): YiiBase::createComponent(Array)
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(221): CModule->getComponent('viewRenderer')
+#3 /var/www/public_html/1/Yii/web/CController.php(695): CWebApplication->getViewRenderer()
+#4 /var/www/public_html/1/Yii/web/CController.php(591): CController->resolveViewFile('index', '/var/www/public...', '/var/www/public...', '/var/www/public...')
+#5 /var/www/public_html/1/Yii/web/CController.php(867): CController->getViewFile('index')
+#6 /var/www/public_html/1/Yii/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#7 /var/www/public_html/1/protected/controllers/IndexController.php(11): CController->render('index')
+#8 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#9 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#13 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#14 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /var/www/public_html/1/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/1/
+---
+2015/04/22 09:58:10 [error] [php] include(CSmartyViewRenderer.php): failed to open stream: No such file or directory (/var/www/public_html/1/Yii/YiiBase.php:432)
+Stack trace:
+#0 /var/www/public_html/1/Yii/YiiBase.php(217): spl_autoload_call()
+#1 /var/www/public_html/1/Yii/base/CModule.php(393): createComponent()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(221): CWebApplication->getComponent()
+#3 /var/www/public_html/1/Yii/web/CController.php(695): CWebApplication->getViewRenderer()
+#4 /var/www/public_html/1/Yii/web/CController.php(591): IndexController->resolveViewFile()
+#5 /var/www/public_html/1/Yii/web/CController.php(867): IndexController->getViewFile()
+#6 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#7 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#8 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#9 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#10 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#11 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#12 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#13 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#14 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/controllers/IndexController.php (11)
+in /var/www/public_html/1/index.php (13)
+2015/04/22 10:00:10 [error] [php] require_once(sysplugins/smarty_internal_data.php): failed to open stream: No such file or directory (/var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php:143)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CWebApplication.php(221): CWebApplication->getComponent()
+#1 /var/www/public_html/1/Yii/web/CController.php(695): CWebApplication->getViewRenderer()
+#2 /var/www/public_html/1/Yii/web/CController.php(591): IndexController->resolveViewFile()
+#3 /var/www/public_html/1/Yii/web/CController.php(867): IndexController->getViewFile()
+#4 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#5 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#6 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#7 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#8 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#9 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#10 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#11 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#12 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#13 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (143)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (143)
+in /var/www/public_html/1/protected/controllers/IndexController.php (11)
+2015/04/22 10:25:44 [error] [php] require_once(Smarty/Smarty.class.php): failed to open stream: No such file or directory (/var/www/public_html/1/protected/extensions/Smarty/CSmartyViewRenderer.php:35)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CWebApplication.php(221): CWebApplication->getComponent()
+#1 /var/www/public_html/1/Yii/web/CController.php(695): CWebApplication->getViewRenderer()
+#2 /var/www/public_html/1/Yii/web/CController.php(591): IndexController->resolveViewFile()
+#3 /var/www/public_html/1/Yii/web/CController.php(867): IndexController->getViewFile()
+#4 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#5 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#6 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#7 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#8 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#9 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#10 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#11 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#12 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#13 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/extensions/Smarty/CSmartyViewRenderer.php (35)
+in /var/www/public_html/1/protected/extensions/Smarty/CSmartyViewRenderer.php (35)
+in /var/www/public_html/1/protected/controllers/IndexController.php (11)
+2015/04/22 10:36:03 [error] [exception.CException] exception 'CException' with message 'Контроллер IndexController не может найти представление "index".' in /var/www/public_html/1/Yii/web/CController.php:878
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#1 /var/www/public_html/1/protected/controllers/IndexController.php(11): CController->render('index')
+#2 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#3 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#7 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#8 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /var/www/public_html/1/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/1/
+---
+2015/04/22 10:38:58 [error] [exception.CException] exception 'CException' with message 'Не определено свойство "IndexController.smarty".' in /var/www/public_html/1/Yii/base/CComponent.php:130
+Stack trace:
+#0 /var/www/public_html/1/protected/controllers/IndexController.php(10): CComponent->__get('smarty')
+#1 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#2 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#6 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#7 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/public_html/1/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/1/
+---
+2015/04/22 10:47:32 [error] [php] Undefined index: radio_id (/var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(157) : eval()'d code:85)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(157) : eval()'d code (85)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 10:52:03 [error] [php] Undefined index: location (/var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code:125)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code (125)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 10:55:28 [error] [php] Undefined index: location (/var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code:125)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code (125)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 10:55:36 [error] [php] Undefined index: location (/var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php:125)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (125)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 10:56:27 [error] [exception.SmartyCompilerException]  --> Smarty Compiler: Syntax error in template "/var/www/public_html/1/protected/views/index/footer.tpl"  on line 8 "<script src="js/main.js?{php}echo time();{/php}"></script>" unknown tag "php" <-- 
+REQUEST_URI=/1/
+---
+2015/04/22 11:18:08 [error] [exception.SmartyCompilerException]  --> Smarty Compiler: Syntax error in template "/var/www/public_html/1/protected/views/index/index.tpl"  on line 55 "{html_options options=$this->getLocationList(); selected=641780}"  - Unexpected ";", expected one of: "}" <-- 
+REQUEST_URI=/1/
+---
+2015/04/22 11:19:17 [error] [php] Array to string conversion (/var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code:40)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code (40)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:21:10 [error] [exception.SmartyCompilerException]  --> Smarty Compiler: Syntax error in template "/var/www/public_html/1/protected/views/index/index.tpl"  on line 55 "{html_options options={$this->getLocationList();} selected=641780}"  - Unexpected ";", expected one of: "}" <-- 
+REQUEST_URI=/1/
+---
+2015/04/22 11:21:53 [error] [php] Array to string conversion (/var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code:40)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code (40)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:22:32 [error] [php] Array to string conversion (/var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code:39)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code (39)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:22:37 [error] [php] Array to string conversion (/var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php:39)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (39)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:24:21 [error] [php] Array to string conversion (/var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code:39)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code (39)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:24:24 [error] [php] Array to string conversion (/var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php:39)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (39)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:24:25 [error] [php] Array to string conversion (/var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php:39)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (39)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:24:27 [error] [php] Array to string conversion (/var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php:39)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (39)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:24:27 [error] [php] Array to string conversion (/var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php:39)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (39)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:24:27 [error] [php] Array to string conversion (/var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php:39)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (39)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:24:27 [error] [php] Array to string conversion (/var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php:39)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (39)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:24:27 [error] [php] Array to string conversion (/var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php:39)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (39)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:24:27 [error] [php] Array to string conversion (/var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php:39)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (39)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:24:27 [error] [php] Array to string conversion (/var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php:39)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (39)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:24:28 [error] [php] Array to string conversion (/var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php:39)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (39)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:24:29 [error] [php] Array to string conversion (/var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php:39)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (39)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:25:30 [error] [php] Array to string conversion (/var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code:97)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code (97)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:25:39 [error] [php] Array to string conversion (/var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php:97)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#4 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#5 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#7 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#11 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (97)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 11:36:09 [error] [php] Trying to get property of non-object (/var/www/public_html/1/protected/controllers/IndexController.php:29)
+Stack trace:
+#0 /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php(273): Smarty_Internal_Template->fetch()
+#1 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#3 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#4 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#5 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#6 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#7 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#8 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#10 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#12 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/controllers/IndexController.php (29)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code (40)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+2015/04/22 11:37:07 [error] [php] Trying to get property of non-object (/var/www/public_html/1/protected/controllers/IndexController.php:29)
+Stack trace:
+#0 /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php(273): Smarty_Internal_Template->fetch()
+#1 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#3 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#4 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#5 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#6 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#7 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#8 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#10 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#12 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/controllers/IndexController.php (29)
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (40)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+2015/04/22 11:37:10 [error] [php] Trying to get property of non-object (/var/www/public_html/1/protected/controllers/IndexController.php:29)
+Stack trace:
+#0 /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php(273): Smarty_Internal_Template->fetch()
+#1 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#3 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#4 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#5 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#6 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#7 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#8 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#10 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#12 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/controllers/IndexController.php (29)
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (40)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+2015/04/22 11:41:11 [error] [php] Trying to get property of non-object (/var/www/public_html/1/protected/controllers/IndexController.php:29)
+Stack trace:
+#0 /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php(273): Smarty_Internal_Template->fetch()
+#1 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#3 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#4 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#5 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#6 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#7 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#8 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#10 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#12 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/controllers/IndexController.php (29)
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (40)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+2015/04/22 11:41:17 [error] [php] Trying to get property of non-object (/var/www/public_html/1/protected/controllers/IndexController.php:29)
+Stack trace:
+#0 /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php(273): Smarty_Internal_Template->fetch()
+#1 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#3 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#4 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#5 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#6 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#7 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#8 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#10 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#12 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/controllers/IndexController.php (29)
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (40)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+2015/04/22 11:41:27 [error] [php] Trying to get property of non-object (/var/www/public_html/1/protected/controllers/IndexController.php:29)
+Stack trace:
+#0 /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php(273): Smarty_Internal_Template->fetch()
+#1 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#3 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#4 /var/www/public_html/1/protected/controllers/IndexController.php(11): IndexController->render()
+#5 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#6 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#7 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#8 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#10 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#12 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/controllers/IndexController.php (29)
+in /var/www/public_html/1/protected/runtime/smarty/compiled/1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc.file.index.tpl.php (40)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+2015/04/22 11:50:47 [error] [exception.SmartyCompilerException]  --> Smarty Compiler: Syntax error in template "/var/www/public_html/1/protected/views/index/index.tpl"  on line 66 "{html_options options=$this->getCategorylist().$key selected=''}"  - Unexpected ".", expected one of: "}" <-- 
+REQUEST_URI=/1/
+---
+2015/04/22 12:49:42 [error] [exception.CException] exception 'CException' with message 'Контроллер IndexController не может найти представление "table_row_private.tpl".' in /var/www/public_html/1/Yii/web/CController.php:878
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(782): CController->renderPartial('table_row_priva...', Array, true)
+#1 /var/www/public_html/1/protected/controllers/IndexController.php(27): CController->render('table_row_priva...', Array, true)
+#2 /var/www/public_html/1/protected/controllers/IndexController.php(15): IndexController->prepareForOutTableRow()
+#3 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#4 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#6 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#9 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#10 /var/www/public_html/1/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/1/
+---
+2015/04/22 12:51:54 [error] [exception.CException] exception 'CException' with message 'В классе Ads и его поведениях не найден метод или замыкание с именем "id".' in /var/www/public_html/1/Yii/base/CComponent.php:266
+Stack trace:
+#0 /var/www/public_html/1/Yii/db/ar/CActiveRecord.php(227): CComponent->__call('id', Array)
+#1 /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(157) : eval()'d code(27): CActiveRecord->__call('id', Array)
+#2 /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(157) : eval()'d code(27): Ads->id()
+#3 /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(188): content_55376f3a72e305_41121016(Object(Smarty_Internal_Template))
+#4 /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php(273): Smarty_Internal_TemplateBase->fetch()
+#5 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile(Object(IndexController), '/var/www/public...', Array, true)
+#6 /var/www/public_html/1/Yii/web/CController.php(869): CBaseController->renderFile('/var/www/public...', Array, true)
+#7 /var/www/public_html/1/Yii/web/CController.php(782): CController->renderPartial('table_row_priva...', Array, true)
+#8 /var/www/public_html/1/protected/controllers/IndexController.php(27): CController->render('table_row_priva...', Array, true)
+#9 /var/www/public_html/1/protected/controllers/IndexController.php(15): IndexController->prepareForOutTableRow()
+#10 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#11 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#13 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#15 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#16 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#17 /var/www/public_html/1/index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/1/
+---
+2015/04/22 12:56:32 [error] [exception.CException] exception 'CException' with message 'В классе Ads и его поведениях не найден метод или замыкание с именем "getId".' in /var/www/public_html/1/Yii/base/CComponent.php:266
+Stack trace:
+#0 /var/www/public_html/1/Yii/db/ar/CActiveRecord.php(227): CComponent->__call('getId', Array)
+#1 /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code(27): CActiveRecord->__call('getId', Array)
+#2 /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code(27): Ads->getId()
+#3 /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(188): content_55376f3a72e305_41121016(Object(Smarty_Internal_Template))
+#4 /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php(273): Smarty_Internal_TemplateBase->fetch()
+#5 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile(Object(IndexController), '/var/www/public...', Array, true)
+#6 /var/www/public_html/1/Yii/web/CController.php(869): CBaseController->renderFile('/var/www/public...', Array, true)
+#7 /var/www/public_html/1/Yii/web/CController.php(782): CController->renderPartial('table_row_priva...', Array, true)
+#8 /var/www/public_html/1/protected/controllers/IndexController.php(27): CController->render('table_row_priva...', Array, true)
+#9 /var/www/public_html/1/protected/controllers/IndexController.php(15): IndexController->prepareForOutTableRow()
+#10 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#11 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#13 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#15 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#16 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#17 /var/www/public_html/1/index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/1/
+---
+2015/04/22 12:59:30 [error] [php] Undefined index: ad (/var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code:27)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CBaseController.php(93): ESmartyViewRenderer->renderFile()
+#1 /var/www/public_html/1/Yii/web/CController.php(869): IndexController->renderFile()
+#2 /var/www/public_html/1/Yii/web/CController.php(782): IndexController->renderPartial()
+#3 /var/www/public_html/1/protected/controllers/IndexController.php(27): IndexController->render()
+#4 /var/www/public_html/1/protected/controllers/IndexController.php(15): IndexController->prepareForOutTableRow()
+#5 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#6 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#7 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#8 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#9 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#10 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#12 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code (27)
+in /var/www/public_html/1/protected/vendor/Smarty/sysplugins/smarty_internal_templatebase.php (188)
+in /var/www/public_html/1/protected/extensions/Smarty/ESmartyViewRenderer.php (273)
+2015/04/22 13:22:20 [error] [exception.CException] exception 'CException' with message 'В классе IndexController и его поведениях не найден метод или замыкание с именем "getLabelList".' in /var/www/public_html/1/Yii/base/CComponent.php:266
+Stack trace:
+#0 /var/www/public_html/1/protected/controllers/IndexController.php(13): CComponent->__call('getLabelList', Array)
+#1 /var/www/public_html/1/protected/controllers/IndexController.php(13): IndexController->getLabelList()
+#2 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#3 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#7 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#8 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /var/www/public_html/1/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/1/
+---
+2015/04/24 11:58:07 [error] [exception.SmartyCompilerException]  --> Smarty Compiler: Syntax error in template "/var/www/public_html/1/protected/views/index/header.tpl"  on line 25 "<h1>Добро пожаловать {{name}}!</h1>" unknown tag "name" <-- 
+REQUEST_URI=/1/
+---
+2015/04/24 11:59:06 [error] [exception.SmartyCompilerException]  --> Smarty Compiler: Syntax error in template "/var/www/public_html/1/protected/views/index/header.tpl"  on line 25 "<h1>Добро пожаловать {name}!</h1>" unknown tag "name" <-- 
+REQUEST_URI=/1/
+---
+2015/04/24 11:59:07 [error] [exception.SmartyCompilerException]  --> Smarty Compiler: Syntax error in template "/var/www/public_html/1/protected/views/index/header.tpl"  on line 25 "<h1>Добро пожаловать {name}!</h1>" unknown tag "name" <-- 
+REQUEST_URI=/1/
+---
+2015/04/24 11:59:10 [error] [exception.SmartyCompilerException]  --> Smarty Compiler: Syntax error in template "/var/www/public_html/1/protected/views/index/header.tpl"  on line 25 "<h1>Добро пожаловать {name}!</h1>" unknown tag "name" <-- 
+REQUEST_URI=/1/
+---
+2015/04/24 12:16:23 [error] [exception.CException] exception 'CException' with message 'Не определено свойство "ESmartyViewRenderer.left_delimiter".' in /var/www/public_html/1/Yii/base/CComponent.php:173
+Stack trace:
+#0 /var/www/public_html/1/Yii/YiiBase.php(220): CComponent->__set('left_delimiter', '<!--{')
+#1 /var/www/public_html/1/Yii/base/CModule.php(393): YiiBase::createComponent(Array)
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(221): CModule->getComponent('viewRenderer')
+#3 /var/www/public_html/1/Yii/web/CController.php(695): CWebApplication->getViewRenderer()
+#4 /var/www/public_html/1/Yii/web/CController.php(591): CController->resolveViewFile('table_row_priva...', '/var/www/public...', '/var/www/public...', '/var/www/public...')
+#5 /var/www/public_html/1/Yii/web/CController.php(867): CController->getViewFile('table_row_priva...')
+#6 /var/www/public_html/1/protected/controllers/IndexController.php(27): CController->renderPartial('table_row_priva...', Array, true)
+#7 /var/www/public_html/1/protected/controllers/IndexController.php(15): IndexController->prepareForOutTableRow()
+#8 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#9 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#13 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#14 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /var/www/public_html/1/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/1/
+---
+2015/04/24 12:18:04 [error] [exception.CException] exception 'CException' with message 'Не определено свойство "ESmartyViewRenderer.left_delimiter".' in /var/www/public_html/1/Yii/base/CComponent.php:173
+Stack trace:
+#0 /var/www/public_html/1/Yii/YiiBase.php(220): CComponent->__set('left_delimiter', '<!--{')
+#1 /var/www/public_html/1/Yii/base/CModule.php(393): YiiBase::createComponent(Array)
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(221): CModule->getComponent('viewRenderer')
+#3 /var/www/public_html/1/Yii/web/CController.php(695): CWebApplication->getViewRenderer()
+#4 /var/www/public_html/1/Yii/web/CController.php(591): CController->resolveViewFile('table_row_priva...', '/var/www/public...', '/var/www/public...', '/var/www/public...')
+#5 /var/www/public_html/1/Yii/web/CController.php(867): CController->getViewFile('table_row_priva...')
+#6 /var/www/public_html/1/protected/controllers/IndexController.php(27): CController->renderPartial('table_row_priva...', Array, true)
+#7 /var/www/public_html/1/protected/controllers/IndexController.php(15): IndexController->prepareForOutTableRow()
+#8 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#9 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#13 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#14 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /var/www/public_html/1/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/1/
+---
+2015/04/25 14:13:38 [error] [exception.CException] exception 'CException' with message 'Не определено свойство "Ads.type".' in /var/www/public_html/1/Yii/base/CComponent.php:130
+Stack trace:
+#0 /var/www/public_html/1/Yii/db/ar/CActiveRecord.php(145): CComponent->__get('type')
+#1 /var/www/public_html/1/protected/controllers/IndexController.php(26): CActiveRecord->__get('type')
+#2 /var/www/public_html/1/protected/controllers/IndexController.php(15): IndexController->prepareForOutTableRow()
+#3 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#4 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#6 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#9 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#10 /var/www/public_html/1/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/1/
+---
+2015/04/26 12:45:51 [error] [system.db.CDbCommand] Не удалось выполнить CDbCommand::fetchAll(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.locations' doesn't exist. Выполнявшийся SQL-запрос: SHOW FULL COLUMNS FROM `locations`.
+in /var/www/public_html/1/protected/models/Locations.php (41)
+in /var/www/public_html/1/protected/controllers/IndexController.php (12)
+in /var/www/public_html/1/index.php (13)
+2015/04/26 12:45:51 [error] [exception.CDbException] exception 'CDbException' with message 'Таблица "locations", упомянутая в записи active record класса "Locations", не найдена в базе данных.' in /var/www/public_html/1/Yii/db/ar/CActiveRecord.php:2385
+Stack trace:
+#0 /var/www/public_html/1/Yii/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Locations))
+#1 /var/www/public_html/1/Yii/db/ar/CActiveRecord.php(661): CActiveRecord->getMetaData()
+#2 /var/www/public_html/1/Yii/db/ar/CActiveRecord.php(1355): CActiveRecord->getTableSchema()
+#3 /var/www/public_html/1/Yii/db/ar/CActiveRecord.php(1475): CActiveRecord->query(Object(CDbCriteria), true)
+#4 /var/www/public_html/1/protected/models/Locations.php(41): CActiveRecord->findAll()
+#5 /var/www/public_html/1/protected/controllers/IndexController.php(12): Locations::getLocationList()
+#6 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#7 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#8 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#9 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#11 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#12 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#13 /var/www/public_html/1/index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/1/
+---
+2015/04/26 17:12:05 [error] [php] Array to string conversion (/var/www/public_html/1/protected/controllers/IndexController.php:20)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): IndexController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): IndexController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): IndexController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index/getlocationlist
+in /var/www/public_html/1/protected/controllers/IndexController.php (20)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 09:36:16 [error] [php] Undefined index: id (/var/www/public_html/1/protected/controllers/DeleteController.php:7)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): DeleteController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): DeleteController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): DeleteController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/delete
+in /var/www/public_html/1/protected/controllers/DeleteController.php (7)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 09:41:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "index".' in /var/www/public_html/1/Yii/web/CController.php:483
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(270): CController->missingAction('')
+#1 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('ads')
+#3 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/public_html/1/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/1/index.php/ads/
+---
+2015/04/27 09:44:17 [error] [php] Undefined index: id (/var/www/public_html/1/protected/controllers/DeleteController.php:7)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): DeleteController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): DeleteController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): DeleteController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/delete
+in /var/www/public_html/1/protected/controllers/DeleteController.php (7)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 09:54:14 [error] [php] json_decode() expects parameter 1 to be string, array given (/var/www/public_html/1/protected/controllers/AdsController.php:8)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#2 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#4 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#6 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (8)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 09:55:50 [error] [php] Undefined index: ad (/var/www/public_html/1/protected/controllers/AdsController.php:8)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (8)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 09:59:11 [error] [php] Undefined index: adForm (/var/www/public_html/1/protected/controllers/AdsController.php:8)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (8)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 10:04:17 [error] [php] Undefined index: price (/var/www/public_html/1/protected/controllers/AdsController.php:9)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (9)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 11:37:14 [error] [php] Undefined index: date (/var/www/public_html/1/protected/controllers/AdsController.php:30)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#2 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#4 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#6 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (30)
+in /var/www/public_html/1/protected/controllers/AdsController.php (11)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 11:55:21 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (12)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 11:56:09 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (12)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 12:05:59 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (15)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 12:09:32 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (15)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 12:31:47 [error] [php] Undefined index: allow_mails (/var/www/public_html/1/protected/controllers/AdsController.php:31)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#2 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#4 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#6 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (31)
+in /var/www/public_html/1/protected/controllers/AdsController.php (11)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 12:33:13 [error] [php] Undefined index: allow_mails (/var/www/public_html/1/protected/controllers/AdsController.php:31)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#2 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#4 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#6 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (31)
+in /var/www/public_html/1/protected/controllers/AdsController.php (11)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 12:34:37 [error] [php] Undefined index: allow_mails (/var/www/public_html/1/protected/controllers/AdsController.php:31)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#2 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#4 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#6 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (31)
+in /var/www/public_html/1/protected/controllers/AdsController.php (11)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 12:50:58 [error] [php] Undefined index: allow_mails (/var/www/public_html/1/protected/controllers/AdsController.php:12)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (12)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 13:06:28 [error] [php] Undefined index: allow_mails (/var/www/public_html/1/protected/controllers/AdsController.php:21)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (21)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 14:11:10 [error] [system.db.CDbCommand] Не удалось выполнить CDbCommand::execute(): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'PRIMARY'. Выполнявшийся SQL-запрос: INSERT INTO `ads` (`type`, `location_id`, `price`, `seller_name`, `email`, `allow_mails`, `phone`, `category_id`, `title`, `description`, `date`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10, :yp11).
+in /var/www/public_html/1/protected/controllers/AdsController.php (13)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 14:11:10 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand не удалось исполнить SQL-запрос: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `ads` (`type`, `location_id`, `price`, `seller_name`, `email`, `allow_mails`, `phone`, `category_id`, `title`, `description`, `date`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10, :yp11)' in /var/www/public_html/1/Yii/db/CDbCommand.php:358
+Stack trace:
+#0 /var/www/public_html/1/Yii/db/ar/CActiveRecord.php(1080): CDbCommand->execute()
+#1 /var/www/public_html/1/Yii/db/ar/CActiveRecord.php(809): CActiveRecord->insert(NULL)
+#2 /var/www/public_html/1/protected/controllers/AdsController.php(13): CActiveRecord->save()
+#3 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): AdsController->actionSave()
+#4 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#6 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('save')
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('ads/save')
+#9 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#10 /var/www/public_html/1/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/1/index.php/ads/save
+HTTP_REFERER=http://xaver.loc/1/
+---
+2015/04/27 14:13:01 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (11)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 14:14:35 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (11)
+in /var/www/public_html/1/index.php (13)
+2015/04/27 14:21:57 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (14)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 10:12:26 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 10:13:58 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 10:15:08 [error] [php] Undefined variable: save_data (/var/www/public_html/1/protected/controllers/AdsController.php:11)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (11)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 10:16:00 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 10:16:27 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 10:29:45 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 10:38:43 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 11:28:33 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 11:28:35 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 11:28:35 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 11:28:35 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 11:28:35 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 11:28:35 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 11:30:08 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 12:25:03 [error] [exception.CException] exception 'CException' with message 'Контроллер IndexController не может найти представление "table_row_private".' in /var/www/public_html/1/Yii/web/CController.php:878
+Stack trace:
+#0 /var/www/public_html/1/protected/controllers/IndexController.php(35): CController->renderPartial('table_row_priva...', Array, true)
+#1 /var/www/public_html/1/protected/controllers/IndexController.php(12): IndexController->prepareForOutTableRow()
+#2 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#3 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('')
+#7 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('')
+#8 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /var/www/public_html/1/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/1/
+---
+2015/04/28 12:33:05 [error] [exception.CException] exception 'CException' with message 'В классе Ads и его поведениях не найден метод или замыкание с именем "delete_".' in /var/www/public_html/1/Yii/base/CComponent.php:266
+Stack trace:
+#0 /var/www/public_html/1/Yii/db/ar/CActiveRecord.php(227): CComponent->__call('delete_', Array)
+#1 /var/www/public_html/1/protected/controllers/AdsController.php(37): CActiveRecord->__call('delete_', Array)
+#2 /var/www/public_html/1/protected/controllers/AdsController.php(37): Ads->delete_()
+#3 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): AdsController->actionDelete()
+#4 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#6 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('delete')
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('ads/delete')
+#9 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#10 /var/www/public_html/1/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/1/index.php/ads/delete?id=3
+HTTP_REFERER=http://xaver.loc/1/
+---
+2015/04/28 12:34:44 [error] [exception.CException] exception 'CException' with message 'В классе Ads и его поведениях не найден метод или замыкание с именем "delete_".' in /var/www/public_html/1/Yii/base/CComponent.php:266
+Stack trace:
+#0 /var/www/public_html/1/Yii/db/ar/CActiveRecord.php(227): CComponent->__call('delete_', Array)
+#1 /var/www/public_html/1/protected/controllers/AdsController.php(37): CActiveRecord->__call('delete_', Array)
+#2 /var/www/public_html/1/protected/controllers/AdsController.php(37): Ads->delete_()
+#3 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): AdsController->actionDelete()
+#4 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#6 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('delete')
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('ads/delete')
+#9 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#10 /var/www/public_html/1/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/1/index.php/ads/delete?id=3
+HTTP_REFERER=http://xaver.loc/1/
+---
+2015/04/28 13:16:48 [error] [php] Undefined variable: model (/var/www/public_html/1/protected/controllers/AdsController.php:55)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/show?id=8
+in /var/www/public_html/1/protected/controllers/AdsController.php (55)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 13:19:25 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 13:25:06 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 13:26:07 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 13:39:36 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 13:40:16 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 13:59:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in /var/www/public_html/1/protected/controllers/AdsController.php:101
+Stack trace:
+#0 /var/www/public_html/1/protected/controllers/AdsController.php(16): AdsController->loadModel('0')
+#1 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): AdsController->actionSave()
+#2 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('save')
+#6 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('ads/save')
+#7 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/public_html/1/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/1/index.php/ads/save
+HTTP_REFERER=http://xaver.loc/1/
+---
+2015/04/28 13:59:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in /var/www/public_html/1/protected/controllers/AdsController.php:101
+Stack trace:
+#0 /var/www/public_html/1/protected/controllers/AdsController.php(16): AdsController->loadModel('0')
+#1 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): AdsController->actionSave()
+#2 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('save')
+#6 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('ads/save')
+#7 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/public_html/1/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/1/index.php/ads/save
+HTTP_REFERER=http://xaver.loc/1/
+---
+2015/04/28 14:00:46 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 14:01:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in /var/www/public_html/1/protected/controllers/AdsController.php:101
+Stack trace:
+#0 /var/www/public_html/1/protected/controllers/AdsController.php(16): AdsController->loadModel('0')
+#1 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): AdsController->actionSave()
+#2 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('save')
+#6 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('ads/save')
+#7 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/public_html/1/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/1/index.php/ads/save
+HTTP_REFERER=http://xaver.loc/1/
+---
+2015/04/28 14:02:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The12344requested page does not exist.' in /var/www/public_html/1/protected/controllers/AdsController.php:101
+Stack trace:
+#0 /var/www/public_html/1/protected/controllers/AdsController.php(16): AdsController->loadModel('0')
+#1 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): AdsController->actionSave()
+#2 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('save')
+#6 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('ads/save')
+#7 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/public_html/1/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/1/index.php/ads/save
+HTTP_REFERER=http://xaver.loc/1/
+---
+2015/04/28 14:08:01 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 14:09:04 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 14:09:47 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 14:11:45 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 14:12:50 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 14:15:25 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 14:17:37 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 14:18:03 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/28 14:19:15 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/29 10:35:32 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/29 12:02:39 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/29 13:32:08 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/29 13:34:35 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/29 14:17:00 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 17:14:47 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 17:14:58 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 17:35:15 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 17:45:05 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 17:56:26 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 17:56:34 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 17:56:39 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 19:25:04 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 19:25:30 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 19:25:52 [error] [php] Undefined index: date (/var/www/public_html/1/protected/controllers/AdsController.php:82)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#2 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#4 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#6 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (82)
+in /var/www/public_html/1/protected/controllers/AdsController.php (10)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 19:25:59 [error] [php] Undefined index: date (/var/www/public_html/1/protected/controllers/AdsController.php:82)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#2 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#4 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#6 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (82)
+in /var/www/public_html/1/protected/controllers/AdsController.php (10)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 19:27:42 [error] [php] Undefined index: date (/var/www/public_html/1/protected/controllers/AdsController.php:82)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#2 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#4 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#6 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (82)
+in /var/www/public_html/1/protected/controllers/AdsController.php (10)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 19:32:04 [error] [php] Undefined index: id (/var/www/public_html/1/protected/controllers/AdsController.php:12)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (12)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 19:40:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The12344requested page does not exist.' in /var/www/public_html/1/protected/controllers/AdsController.php:104
+Stack trace:
+#0 /var/www/public_html/1/protected/controllers/AdsController.php(16): AdsController->loadModel('0')
+#1 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): AdsController->actionSave()
+#2 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('save')
+#6 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('ads/save')
+#7 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/public_html/1/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/1/index.php/ads/save
+HTTP_REFERER=http://xaver.loc/1/
+---
+2015/04/30 19:42:51 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 19:53:59 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 19:55:43 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 19:58:23 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:00:41 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:02:17 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:02:34 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:03:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The12344requested page does not exist.' in /var/www/public_html/1/protected/controllers/AdsController.php:104
+Stack trace:
+#0 /var/www/public_html/1/protected/controllers/AdsController.php(39): AdsController->loadModel(27)
+#1 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): AdsController->actionDelete()
+#2 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('delete')
+#6 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('ads/delete')
+#7 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /var/www/public_html/1/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/1/index.php/ads/delete?id=27
+HTTP_REFERER=http://xaver.loc/1/
+---
+2015/04/30 20:25:31 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:27:10 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:28:45 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:29:46 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:31:57 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:35:44 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:36:03 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:36:22 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:39:18 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:39:41 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:39:56 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:40:12 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:40:26 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:40:44 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:41:17 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:41:36 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:41:47 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:42:10 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:42:30 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:42:44 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:44:54 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/04/30 20:49:22 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
