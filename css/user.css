@@ -33,7 +33,7 @@ button.close_alert {
 }
 
 #informer {
-    display:none;
+    //display:none;
     left: 35%;
     position: fixed;
     top: 7%;

@@ -7,11 +7,11 @@
 // CWebApplication properties can be configured here.
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
-	'name'=>'Доска объявлений',
+	'name'=>'My Web Application',
         
         'language' => 'ru',
         
-        'defaultController' => 'site',
+        'defaultController' => 'install',
     
 	// preloading 'log' component
 	'preload'=>array('log'),
@@ -24,18 +24,18 @@ return array(
                 'application.vendor.*'
         ),
 
-	'modules'=>array(
-		
-		'gii'=>array(
-			'class'=>'system.gii.GiiModule',
-			'password'=>'123',
-			// If removed, Gii defaults to localhost only. Edit carefully to taste.
-			'ipFilters'=>array('192.168.56.101','192.168.56.1'),
-                    'newFileMode'=>0666,
-                    'newDirMode'=>0777
-		),
-		
-	),
+//	'modules'=>array(
+//		
+//		'gii'=>array(
+//			'class'=>'system.gii.GiiModule',
+//			'password'=>'123',
+//			// If removed, Gii defaults to localhost only. Edit carefully to taste.
+//			'ipFilters'=>array('192.168.56.101','192.168.56.1'),
+//                    'newFileMode'=>0666,
+//                    'newDirMode'=>0777
+//		),
+//		
+//	),
 
 	// application components
 	'components'=>array(
@@ -62,7 +62,8 @@ return array(
 		
 
 		// database settings are configured in database.php
-		'db'=>require(dirname(__FILE__).'/database.php'),
+		'db'=>array(
+                    'autoConnect'=>false),
 
 		'errorHandler'=>array(
 			// use 'site/error' action to display errors

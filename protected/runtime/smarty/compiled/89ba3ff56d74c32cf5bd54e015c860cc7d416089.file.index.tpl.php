@@ -1,40 +1,37 @@
-<?php /* Smarty version Smarty-3.1.21-dev, created on 2015-05-01 16:02:33
-         compiled from "/var/www/public_html/1/protected/views/index/index.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:169130810055375214c2f154-33896881%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /* Smarty version Smarty-3.1.21-dev, created on 2015-05-03 16:23:08
+         compiled from "/var/www/public_html/1/protected/views/site/index.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:3909649205543866b3b0904-61304508%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
-    '1321ff237bdd97da4fc31df4b1f3a6b03c9efbfc' => 
+    '89ba3ff56d74c32cf5bd54e015c860cc7d416089' => 
     array (
-      0 => '/var/www/public_html/1/protected/views/index/index.tpl',
-      1 => 1430417299,
+      0 => '/var/www/public_html/1/protected/views/site/index.tpl',
+      1 => 1430659419,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '169130810055375214c2f154-33896881',
+  'nocache_hash' => '3909649205543866b3b0904-61304508',
   'function' => 
   array (
   ),
   'version' => 'Smarty-3.1.21-dev',
-  'unifunc' => 'content_55375214e60176_59427568',
+  'unifunc' => 'content_5543866b59a951_59699551',
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55375214e60176_59427568')) {function content_55375214e60176_59427568($_smarty_tpl) {?>
-<?php echo $_smarty_tpl->getSubTemplate ("application.views.index.header", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
+<?php if ($_valid && !is_callable('content_5543866b59a951_59699551')) {function content_5543866b59a951_59699551($_smarty_tpl) {?>
+<?php echo $_smarty_tpl->getSubTemplate ("application.views.site.header", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
 
 
 <div class="container-fluid" >
-
-<div id="informer" class="alert alert-warning alert-dismissible"  role="alert">
-    <button type="button" class="close_alert" onclick="$('#informer').fadeOut();return false;"><span aria-hidden="true">&times;</span></button>
-        <div id="informer_text" ></div>
-</div>
 <div ng-controller="mainController">
+    <div ng-include="'/informer'"></div>
+
 <div class="col-sm-4 col-sm-offset-1 " style="padding: 30px;">
 
 
     
-<form name="adForm" class="form-horizontal" >
+<form name="adForm" class="form-horizontal" novalidate>
     <input type="hidden"  name="id" value="" ng-model="ad.id">
     <input type="hidden"  name="date" value="" ng-model="ad.date">
 	
@@ -130,12 +127,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 </div>
      <div class="col-sm-6 " >
-        <?php echo $_smarty_tpl->getSubTemplate ("index/table.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
+        <?php echo $_smarty_tpl->getSubTemplate ("site/table.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
 
             
     </div>
+        
 </div>
 </div>
 
-<?php echo $_smarty_tpl->getSubTemplate ("index/footer.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
+<?php echo $_smarty_tpl->getSubTemplate ("site/footer.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
 <?php }} ?>

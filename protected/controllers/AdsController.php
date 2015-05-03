@@ -7,7 +7,7 @@ class AdsController extends CController
         $data = json_decode(file_get_contents('php://input'), true);
             // обработка данных
             if ($data['seller_name'] && $data['description']) { // если была нажата кнопка
-                $save_ad = $this->trimDATA($data);
+                $save_ad = Ads::trimDATA($data);
                 // выбор SAVE or UPDATE
                 if(!isset($save_ad['id'])|| !$save_ad['id']){
                     $model = new Ads;
@@ -17,16 +17,15 @@ class AdsController extends CController
                 }
                 
                 $model->attributes=$save_ad;
-                //print_r ($model->attributes);
                     if($model->save()){
                         $result['status']='success';
-                        $result['message'] = "Объявление № ".$model->id." добавлено в базу данных";
+                        $result['message'] = "Объявление № ".$model->id." сохранено в базе данных";
                         $result['data'] = $model->attributes;
                         $result['data']['allow_mails'] = (bool)$result['data']['allow_mails'];
                     }
                     else{
                         $result['status']='error';
-                        $result['message'] = "Объявление не удалось добавить в базу данных";
+                        $result['message'] = "Объявление не удалось сохранить в базе данных";
                     }
                 echo json_encode ($result);
             }			
@@ -48,47 +47,6 @@ class AdsController extends CController
         }
     }
     
-    // Просмотр объявления
-//    public function actionShow(){
-//        if(isset($_GET['id'])){
-//            $id=(int)$_GET['id'];
-//            if($model=$this->loadModel($id)){
-//                $result['status']='success';
-//                $result['data'] = $model->attributes;
-//                $result['data']['allow_mails'] = (bool)$result['data']['allow_mails'];
-//            }
-//            else{
-//                $result['status']='error';
-//                $result['message'] = "При извлечении объявления возникли ошибки";
-//            }
-//        echo json_encode ($result);
-//        }
-//    }
-    
-    
-    public function trimDATA (array $data){
-        $result = array();
-            $int = array('id', 'price');
-        foreach ($data as $key => $value) {
-            if (in_array($key, $int)){
-                $result[$key] = trim((int)$value);
-            }
-            else{
-                if ($key == 'allow_mails'){
-                    $result[$key] = $value ? 1 : 0;
-                        continue;
-                }
-                $result[$key] = trim(strip_tags($value));    
-            }
-        }
-        if(isset($data['date'])&&$data['date']!==''){
-            $result['date'] = $data['date'];
-        }
-        else {
-        $result['date'] = date('YmdHis');
-        }
-        return $result;
-    }
     
     /**
 	 * Returns the data model based on the primary key given in the GET variable.
@@ -101,7 +59,7 @@ class AdsController extends CController
 	{
 		$model=Ads::model()->findByPk($id);
 		if($model===null)
-			throw new CHttpException(404,'The12344requested page does not exist.');
+			throw new CHttpException(404,'Объявление не найдено в Базе Данных.');
 		return $model;
 	}
 }
