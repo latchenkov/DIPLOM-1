@@ -2910,3 +2910,424 @@ in /var/www/public_html/1/index.php (13)
 2015/05/03 16:12:46 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
 in /var/www/public_html/1/protected/controllers/AdsController.php (19)
 in /var/www/public_html/1/index.php (13)
+2015/05/10 12:57:22 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 12:57:22 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 12:57:22 [warning] [application] Не удалось присвоить небезопасный атрибут "allow_mails" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 12:57:35 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 12:57:35 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 12:57:35 [warning] [application] Не удалось присвоить небезопасный атрибут "allow_mails" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:17:44 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:17:44 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:18:19 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:18:19 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:19:13 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:19:13 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:19:24 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:19:24 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:20:10 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:20:10 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:22:14 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:22:14 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:23:23 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:23:23 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:23:32 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:23:32 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:23:39 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:23:39 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:23:47 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:23:47 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:23:54 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:23:54 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:24:01 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:24:01 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:24:08 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:24:08 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:24:15 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:24:15 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:24:27 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:24:27 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:24:49 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:24:49 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:29:31 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:29:31 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:32:53 [error] [php] Undefined index: allow_mails (/var/www/public_html/1/protected/models/Ads.php:90)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/public_html/1/Yii/web/CController.php(286): SiteController->runAction()
+#2 /var/www/public_html/1/Yii/web/CController.php(265): SiteController->runActionWithFilters()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(282): SiteController->run()
+#4 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#6 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/site/getallads
+in /var/www/public_html/1/protected/models/Ads.php (90)
+in /var/www/public_html/1/protected/controllers/SiteController.php (25)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:33:06 [error] [php] Undefined index: allow_mails (/var/www/public_html/1/protected/models/Ads.php:90)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/public_html/1/Yii/web/CController.php(286): SiteController->runAction()
+#2 /var/www/public_html/1/Yii/web/CController.php(265): SiteController->runActionWithFilters()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(282): SiteController->run()
+#4 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#6 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/site/getallads
+in /var/www/public_html/1/protected/models/Ads.php (90)
+in /var/www/public_html/1/protected/controllers/SiteController.php (25)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:36:02 [error] [php] Undefined index: allow_mails (/var/www/public_html/1/protected/models/Ads.php:89)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/public_html/1/Yii/web/CController.php(286): SiteController->runAction()
+#2 /var/www/public_html/1/Yii/web/CController.php(265): SiteController->runActionWithFilters()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(282): SiteController->run()
+#4 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#6 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/site/getallads
+in /var/www/public_html/1/protected/models/Ads.php (89)
+in /var/www/public_html/1/protected/controllers/SiteController.php (25)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:38:00 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:38:00 [warning] [application] Не удалось присвоить небезопасный атрибут "date" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:51:27 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:51:27 [warning] [application] Не удалось присвоить небезопасный атрибут "type" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:51:38 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:51:38 [warning] [application] Не удалось присвоить небезопасный атрибут "type" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:52:07 [warning] [application] Не удалось присвоить небезопасный атрибут "type" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:52:32 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 13:52:32 [warning] [application] Не удалось присвоить небезопасный атрибут "type" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:07:41 [error] [php] Non-static method Ads::trimData() should not be called statically, assuming $this from incompatible context (/var/www/public_html/1/protected/controllers/AdsController.php:10)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (10)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:07:50 [error] [php] Non-static method Ads::trimData() should not be called statically, assuming $this from incompatible context (/var/www/public_html/1/protected/controllers/AdsController.php:10)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (10)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:08:43 [error] [php] Non-static method Ads::trimData() should not be called statically, assuming $this from incompatible context (/var/www/public_html/1/protected/controllers/AdsController.php:10)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (10)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:09:29 [error] [php] Non-static method Ads::trimData() should not be called statically, assuming $this from incompatible context (/var/www/public_html/1/protected/controllers/AdsController.php:10)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (10)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:09:30 [error] [php] Non-static method Ads::trimData() should not be called statically, assuming $this from incompatible context (/var/www/public_html/1/protected/controllers/AdsController.php:10)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (10)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:09:31 [error] [php] Non-static method Ads::trimData() should not be called statically, assuming $this from incompatible context (/var/www/public_html/1/protected/controllers/AdsController.php:10)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (10)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:09:31 [error] [php] Non-static method Ads::trimData() should not be called statically, assuming $this from incompatible context (/var/www/public_html/1/protected/controllers/AdsController.php:10)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (10)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:09:31 [error] [php] Non-static method Ads::trimData() should not be called statically, assuming $this from incompatible context (/var/www/public_html/1/protected/controllers/AdsController.php:10)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (10)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:09:31 [error] [php] Non-static method Ads::trimData() should not be called statically, assuming $this from incompatible context (/var/www/public_html/1/protected/controllers/AdsController.php:10)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (10)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:11:02 [error] [php] Non-static method Ads::trimData() should not be called statically, assuming $this from incompatible context (/var/www/public_html/1/protected/controllers/AdsController.php:10)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (10)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:12:00 [error] [php] Undefined variable: save_ad (/var/www/public_html/1/protected/controllers/AdsController.php:19)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:12:14 [error] [php] Undefined variable: save_ad (/var/www/public_html/1/protected/controllers/AdsController.php:19)
+Stack trace:
+#0 /var/www/public_html/1/Yii/web/CController.php(286): AdsController->runAction()
+#1 /var/www/public_html/1/Yii/web/CController.php(265): AdsController->runActionWithFilters()
+#2 /var/www/public_html/1/Yii/web/CWebApplication.php(282): AdsController->run()
+#3 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /var/www/public_html/1/index.php(13): CWebApplication->run()
+REQUEST_URI=/1/index.php/ads/save
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:13:42 [warning] [application] Не удалось присвоить небезопасный атрибут "type" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:14:32 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:14:32 [warning] [application] Не удалось присвоить небезопасный атрибут "type" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:15:57 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:15:57 [warning] [application] Не удалось присвоить небезопасный атрибут "type" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:16:50 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:16:50 [warning] [application] Не удалось присвоить небезопасный атрибут "type" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:17:56 [warning] [application] Не удалось присвоить небезопасный атрибут "type" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:20:27 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:20:27 [warning] [application] Не удалось присвоить небезопасный атрибут "type" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (19)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:26:27 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:26:27 [warning] [application] Не удалось присвоить небезопасный атрибут "type" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:27:49 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:27:49 [warning] [application] Не удалось присвоить небезопасный атрибут "type" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:28:26 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 14:28:26 [warning] [application] Не удалось присвоить небезопасный атрибут "type" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 15:51:38 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 15:51:53 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 15:52:13 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 15:52:23 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 15:52:30 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 16:53:05 [error] [exception.CException] exception 'CException' with message 'Не определено свойство "CDbConnection.createCommand".' in /var/www/public_html/1/Yii/base/CComponent.php:130
+Stack trace:
+#0 /var/www/public_html/1/protected/controllers/InstallController.php(64): CComponent->__get('createCommand')
+#1 /var/www/public_html/1/protected/controllers/InstallController.php(36): InstallController->dropTable(Object(CDbConnection))
+#2 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): InstallController->actionInstall()
+#3 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('install')
+#7 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('install/install')
+#8 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /var/www/public_html/1/install.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/1/install.php/install/install
+HTTP_REFERER=http://xaver.loc/1/install.php
+---
+2015/05/10 16:57:19 [error] [system.db.CDbCommand] Не удалось выполнить CDbCommand::execute(): SQLSTATE[42S02]: Base table or view not found: 1051 Unknown table 'test.ads,categorys,locations'. Выполнявшийся SQL-запрос: DROP TABLE `ads,categorys,locations`.
+2015/05/10 16:57:20 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand не удалось исполнить SQL-запрос: SQLSTATE[42S02]: Base table or view not found: 1051 Unknown table 'test.ads,categorys,locations'' in /var/www/public_html/1/Yii/db/CDbCommand.php:358
+Stack trace:
+#0 /var/www/public_html/1/Yii/db/CDbCommand.php(1375): CDbCommand->execute()
+#1 /var/www/public_html/1/protected/controllers/InstallController.php(64): CDbCommand->dropTable('ads,categorys,l...')
+#2 /var/www/public_html/1/protected/controllers/InstallController.php(36): InstallController->dropTable(Object(CDbConnection))
+#3 /var/www/public_html/1/Yii/web/actions/CInlineAction.php(49): InstallController->actionInstall()
+#4 /var/www/public_html/1/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/public_html/1/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#6 /var/www/public_html/1/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/public_html/1/Yii/web/CWebApplication.php(282): CController->run('install')
+#8 /var/www/public_html/1/Yii/web/CWebApplication.php(141): CWebApplication->runController('install/install')
+#9 /var/www/public_html/1/Yii/base/CApplication.php(184): CWebApplication->processRequest()
+#10 /var/www/public_html/1/install.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/1/install.php/install/install
+HTTP_REFERER=http://xaver.loc/1/install.php
+---
+2015/05/10 17:02:19 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)
+2015/05/10 17:02:39 [warning] [application] Не удалось присвоить небезопасный атрибут "id" класса "Ads".
+in /var/www/public_html/1/protected/controllers/AdsController.php (18)
+in /var/www/public_html/1/index.php (13)

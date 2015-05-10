@@ -35,45 +35,25 @@ class Ads extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('date, title, price, seller_name, type, email, allow_mails, phone, location_id, category_id, description', 'required'),
-			array('price',  'numerical', 'integerOnly'=>true),
-			array('title', 'length', 'max'=>40),
-			array('seller_name, location_id, category_id', 'length', 'max'=>40),
-			array('type, email', 'length', 'max'=>40),
+			array('type, title, price, seller_name, email, phone, location_id, category_id, description', 'required'),
+			array('allow_mails', 'boolean'),
+                        array('price',  'numerical', 'integerOnly'=>true),
+			array('title, seller_name, location_id, category_id, email', 'length', 'max'=>40),
 			array('phone', 'length', 'max'=>20),
-                        //array('allow_mails', 'length', 'max'=>5),
 			array('description', 'length', 'max'=>255),
-			// The following rule is used by search().
+			array('date', 'default', 'value'=>time()*1000),
+                        array('title, price, seller_name, email, phone, location_id, category_id, description', 'filter', 'filter'=>array($this,'trimData')),
+                        // The following rule is used by search().
 			// @todo Please remove those attributes that should not be searched.
-			array('id, date, title, price, seller_name, type, email, allow_mails, phone, location_id, category_id, description', 'safe', 'on'=>'search'),
+			//array('id, date, title, price, seller_name, type, email, allow_mails, phone, location_id, category_id, description', 'safe', 'on'=>'search'),
 		);
 	}
 
         
         
         // Обработка входных данных перед добавлением в БД    
-    public static function trimDATA (array $data){
-        $result = array();
-            $int = array('id', 'price');
-        foreach ($data as $key => $value) {
-            if (in_array($key, $int)){
-                $result[$key] = trim((int)$value);
-            }
-            else{
-                if ($key == 'allow_mails'){
-                    $result[$key] = $value ? 1 : 0;
-                        continue;
-                }
-                $result[$key] = trim(strip_tags($value));    
-            }
-        }
-        if(isset($data['date'])&&$data['date']!==''){
-            $result['date'] = $data['date'];
-        }
-        else {
-        $result['date'] = time()*1000;
-        }
-        return $result;
+    public function trimData ($data){
+        return trim(strip_tags($data));    
     }
     
     
@@ -86,6 +66,7 @@ class Ads extends CActiveRecord
             $result = array();    
                 foreach ($data as $buf){
                     $result[$buf->id]=$buf->attributes;
+                        $result[$buf->id]['allow_mails'] = (bool)$result[$buf->id]['allow_mails'];
                 }
             return $result;
 	}

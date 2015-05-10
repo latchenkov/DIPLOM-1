@@ -4,30 +4,28 @@ class AdsController extends CController
 {
     public function actionSave(){
         // получение данных POST
-        $data = json_decode(file_get_contents('php://input'), true);
+        $data = CJSON::decode(file_get_contents('php://input'), true);
             // обработка данных
             if ($data['seller_name'] && $data['description']) { // если была нажата кнопка
-                $save_ad = Ads::trimDATA($data);
                 // выбор SAVE or UPDATE
-                if(!isset($save_ad['id'])|| !$save_ad['id']){
+                if(!isset($data['id'])|| !$data['id']){
                     $model = new Ads;
                 }
                 else{
-                    $model = $this->loadModel($save_ad['id']);
+                    $model = $this->loadModel($data['id']);
                 }
                 
-                $model->attributes=$save_ad;
+                $model->attributes=$data;
                     if($model->save()){
                         $result['status']='success';
                         $result['message'] = "Объявление № ".$model->id." сохранено в базе данных";
                         $result['data'] = $model->attributes;
-                        $result['data']['allow_mails'] = (bool)$result['data']['allow_mails'];
                     }
                     else{
                         $result['status']='error';
                         $result['message'] = "Объявление не удалось сохранить в базе данных";
                     }
-                echo json_encode ($result);
+                echo CJSON::encode($result);
             }			
     }
     
@@ -43,7 +41,7 @@ class AdsController extends CController
                 $result['status']='error';
                 $result['message'] = "При удалении объявления возникли ошибки";
             }
-        echo json_encode ($result);
+        echo CJSON::encode($result);
         }
     }
     

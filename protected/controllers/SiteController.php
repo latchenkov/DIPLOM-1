@@ -14,11 +14,11 @@ class SiteController extends CController
 	}
         
         public function actionGetLocationList(){
-            echo json_encode(Locations::getLocationList());
+            echo CJSON::encode(Locations::getLocationList());
         }
 
         public function actionGetCategoryList(){
-            echo json_encode(Categorys::getCategoryList());
+            echo CJSON::encode(Categorys::getCategoryList());
         }
        
         public function actionGetAllAds(){
@@ -31,7 +31,7 @@ class SiteController extends CController
                     $result['status'] = 'success';
                     $result['data'] = $data;
                 }
-            echo json_encode($result);
+            echo CJSON::encode($result);
         }
 
 	/**

@@ -56,14 +56,8 @@ class InstallController extends CController
     }
 // Функция очистки базы данных
     public function dropTable(CDbConnection $connection) {    
-        $command = $connection->createCommand("SHOW TABLES FROM " . $this->db_name);
-            $reader = $command->query();
-            $res = array();
-                foreach($reader as $row){
-                    foreach($row as $val){
-                        $res[]= $val;
-                    }
-                }
+        $res = array();
+        $res = $connection->schema->getTableNames();
         if (!empty($res)){
             $command=$connection->createCommand("SET foreign_key_checks = 0");
                 $command->execute();
