@@ -29,7 +29,7 @@ adsManagementApp.controller('mainController', function($scope, $http, $timeout, 
         }
         $scope.informer.text = message;
         $scope.informer.show = true;
-        var promise = $timeout(function(){
+        $timeout(function(){
         $scope.informer.show = false;
         }, 2000);
     };

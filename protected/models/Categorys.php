@@ -21,21 +21,7 @@ class Categorys extends CActiveRecord
 	/**
 	 * @return array validation rules for model attributes.
 	 */
-	public function rules()
-	{
-		// NOTE: you should only define rules for those attributes that
-		// will receive user inputs.
-		return array(
-			array('id, category', 'required'),
-			array('id, parent_id', 'numerical', 'integerOnly'=>true),
-			array('category', 'length', 'max'=>30),
-			// The following rule is used by search().
-			// @todo Please remove those attributes that should not be searched.
-			array('id, category, parent_id', 'safe', 'on'=>'search'),
-		);
-	}
-
-	
+		
         // Список категорий 
         public static function getCategorylist()
         {

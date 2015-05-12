@@ -20,21 +20,7 @@ class Locations extends CActiveRecord
 	/**
 	 * @return array validation rules for model attributes.
 	 */
-	public function rules()
-	{
-		// NOTE: you should only define rules for those attributes that
-		// will receive user inputs.
-		return array(
-			array('id, location', 'required'),
-			array('id', 'numerical', 'integerOnly'=>true),
-			array('location', 'length', 'max'=>20),
-			// The following rule is used by search().
-			// @todo Please remove those attributes that should not be searched.
-			array('id, location', 'safe', 'on'=>'search'),
-		);
-	}
-
-	
+		
 	 // Список городов 
         public static function getLocationList()
         {
