@@ -17,10 +17,7 @@ class Locations extends CActiveRecord
 		return 'locations';
 	}
 
-	/**
-	 * @return array validation rules for model attributes.
-	 */
-		
+	
 	 // Список городов 
         public static function getLocationList()
         {

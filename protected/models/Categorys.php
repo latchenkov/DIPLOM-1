@@ -18,10 +18,8 @@ class Categorys extends CActiveRecord
 		return 'categorys';
 	}
 
-	/**
-	 * @return array validation rules for model attributes.
-	 */
-		
+	
+	
         // Список категорий 
         public static function getCategorylist()
         {

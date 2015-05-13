@@ -66,11 +66,14 @@ class Ads extends CActiveRecord
             $result = array();    
                 foreach ($data as $buf){
                     $result[$buf->id]=$buf->attributes;
-                        $result[$buf->id]['allow_mails'] = (bool)$result[$buf->id]['allow_mails'];
                 }
             return $result;
 	}
 	
+        protected function afterFind(){
+            parent::afterFind();
+                $this->allow_mails = (bool)$this->allow_mails;
+        }
 	
 	/**
 	 * Returns the static model of the specified AR class.
